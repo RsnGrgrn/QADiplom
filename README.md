@@ -4,7 +4,10 @@ ___
 ___
 
 ## Документация проекта:
-[1. Задание к диплому](https://github.com/netology-code/qa-diploma/blob/master/README.md)   
+[1. Задание к диплому](https://github.com/netology-code/qa-diploma/blob/master/README.md) 
+[2.План автоматизации](https://github.com/RsnGrgrn/QADiplom/blob/master/docs/Plan.md)  
+[3.Отчет по итогам тестирования](https://github.com/RsnGrgrn/QADiplom/blob/master/docs/Report.md)  
+[4.Отчет по итогам автоматизации](https://github.com/RsnGrgrn/QADiplom/blob/master/docs/Summary.md)   
 
 ___
 ## Запуск SUT, авто-тестов и генерация отчетов
