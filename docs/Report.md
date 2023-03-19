@@ -5,7 +5,7 @@ ___
 
 
 ### Количество тест-кейсов
-В ходе тестирования было автоматизирован 51 тест-кейс.
+В ходе тестирования был автоматизирован 51 тест-кейс.
 
 <img width="473" alt="report" src="https://raw.githubusercontent.com/RsnGrgrn/QADiplom/master/docs/pic/report.png">
 
